@@ -2,6 +2,7 @@
 *.pyc
 *.log
 docs/_build
+*.TEST
 *.buildinfo
 *.mp3
 *.m4a
